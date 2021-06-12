@@ -18,12 +18,7 @@
 </p>
 <p align='center'>
 
-# sosmed
 
-
-* [`instagram`](https://instagram.com/zuxyganz_)
-
-* [`whatsapp`](https://wa.me/6285697725326?teks=sv+aku-ya-kak)
 
 
 
