@@ -21,9 +21,8 @@
 
  - Instagram <a href="https://instagram.com/zuxyganz_"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
- - whatsapp <a href="https://wa.me/6285697725326"><img height="30" src="https://github.com/ZuxyGanz/ZuxyGanz/blob/main/whatsapp.jpg?raw=true"></a>
+ - whatsapp <a href="https://wa.me/6285697725326"><img height="30" 
 
-</P>
 
 <p align="center">
   <a href="https://github.com/ZuxyGanz"><img src="https://github-readme-stats.vercel.app/api?username=ZuxyGanz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
