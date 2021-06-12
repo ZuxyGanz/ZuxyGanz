@@ -19,9 +19,9 @@
 <p align='center'>
 
 
-   <a href="https://instagram.com/zuxyganz_"><img height="30" src="https://github.com/ZuxyGanz/ZuxyGanz/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/zuxyganz_"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
-   <a href="https://whatsapp.com/6285697725326"><img height="30" src="https://github.com/ZuxgGanz/ZuxyGanz/blob/main/facebook.png?raw=true"></a>
+   <a href="https://wa.me/6285697725326"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/whatsapp.png?raw=true"></a>
 
 </P>
 
