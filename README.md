@@ -16,6 +16,14 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
 </p>
+<p align='center'>
+
+
+   <a href="https://instagram.com/zuxyganz_"><img height="30" src="https://github.com/ZuxyGanz/ZuxyGanz/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+
+   <a href="https://whatsapp.com/6285697725326"><img height="30" src="https://github.com/ZuxgGanz/ZuxyGanz/blob/main/facebook.png?raw=true"></a>
+
+</P>
 
 <p align="center">
   <a href="https://github.com/ZuxyGanz"><img src="https://github-readme-stats.vercel.app/api?username=ZuxyGanz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
