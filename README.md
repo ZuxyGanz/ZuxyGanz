@@ -18,10 +18,14 @@
 </p>
 <p align='center'>
 
+# sosmed
 
- - Instagram <a href="https://instagram.com/zuxyganz_"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 
- - whatsapp <a href="https://wa.me/6285697725326"><img height="30" 
+* [`instagram`](https://instagram.com/zuxyganz_)
+
+* [`whatsapp`](https://wa.me/6285697725326?teks=sv+aku-ya-kak)
+
+
 
 
 <p align="center">
