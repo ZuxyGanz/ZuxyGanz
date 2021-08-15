@@ -1,8 +1,8 @@
 
 			
 						
-   <script>slow My Skill</script>
-   const skill = ALDI('HTML, java, nodejs')
+   if respon skil = slow My Skill
+   const skill = ALDI(HTML, java, nodejs, handler)
    status MySkill(new, skil)
    try{
    info: 'skill',
