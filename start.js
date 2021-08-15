@@ -1,4 +1,7 @@
 
+
+
+
 			
 						
    if respon skil = slow My Skill
@@ -10,11 +13,6 @@
    Java: '70%',
    Nodejs: '90%'
    }
-
-
-
-
-
 
 
 
