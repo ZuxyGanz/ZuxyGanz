@@ -1,7 +1,6 @@
 
 
 
-
 			
 						
    if respon skil = slow My Skill
